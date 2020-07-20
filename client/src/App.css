@@ -1,0 +1,26 @@
+.wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.title {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.icon-wrapper {
+  align-content: space-between;
+}
+
+.blue {
+  color: #0099ff;
+}
+
+.orange {
+  color: darkorange;
+}
+
+.red {
+  color: #c00
+}
